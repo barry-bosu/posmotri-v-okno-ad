@@ -23,3 +23,6 @@ python -m http.server 8000
 Исходные HTML, JavaScript, шрифты, стили ошибок и прелоадеров сохранены из официальной заготовки: https://github.com/yandex-praktikum/posmotri-v-okno-ad.
 
 API приложения: https://v-content.ffapi.ru. Адрес обновлён по актуальной официальной заготовке Практикума.
+## Репозиторий проекта
+
+https://github.com/barry-bosu/posmotri-v-okno-ad
